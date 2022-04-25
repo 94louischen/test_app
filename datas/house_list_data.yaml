@@ -1,0 +1,4 @@
+#- build_value: 1栋1单元
+#  room_value: 1A
+- build_value: A栋普通住宅单元
+  room_value: 12003

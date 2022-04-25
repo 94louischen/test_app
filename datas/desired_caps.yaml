@@ -1,0 +1,15 @@
+appActivity: com.kfang.agent.ui.login.LoginActivity
+#appActivity: com.kfang.agent.ui.login.OneStepLoginActivity
+appPackage: com.kfang.agent
+automationName: UiAutomator2
+chromedriverExecutable: D:\webdriver\chromedriver75.exe
+deviceName: Android Emulator
+goog:chromeOptions:
+  w3c: false
+noReset: true
+platformName: Android
+platformVersion: 7.1.2
+#platformVersion: 10.0.0
+nativeWebScreenshot: true
+newCommandTimeout: 600
+
